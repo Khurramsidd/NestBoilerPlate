@@ -53,4 +53,4 @@ NestBoilerPlate/
 └── README.md          # Project documentation
 ```
 ## 📌 Author
-- **Khurram Siddique** - [GitHub](@Khurramsidd)) | [LinkedIn](https://www.linkedin.com/in/khurram-saeed-siddiqui-441bb8b5/)
+- **Khurram Siddique** - [GitHub](https://github.com/Khurramsidd/) | [LinkedIn](https://www.linkedin.com/in/khurram-saeed-siddiqui-441bb8b5/)
